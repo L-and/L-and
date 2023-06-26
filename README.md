@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Unity-3766AB?style=flat-square&logo=Unity&logoColor=white"/></a>
 
 E-mail: ksw1812@naver.com
-
-// [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw1812)](https://solved.ac/ksw1812/)
-
+<!--
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksw1812)](https://solved.ac/ksw1812/)
+-->
 ![L-and's github stats](https://github-readme-stats.vercel.app/api?username=L-and&show_icons=true)
